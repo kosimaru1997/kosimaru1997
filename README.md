@@ -57,6 +57,7 @@ HTML/CSS
 JavaScript
 
 Ruby(Ruby on Rails)
+
 PHP (Laravel)
 
 SQL(MySQLをメインに学習)
