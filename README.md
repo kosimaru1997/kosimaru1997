@@ -41,7 +41,7 @@
 [![](https://raw.githubusercontent.com/kosimaru1997/kosimaru1997/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosimaru1997)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosimaru1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosimaru1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
