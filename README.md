@@ -1,4 +1,4 @@
-### Hi there 👋
+### 閲覧いただきありがとうございます。
 <!-- ![](https://komarev.com/ghpvc/?username=kosimaru1997) -->
 <h4 align="left">Languages and Tools:</h4>
 
@@ -40,22 +40,29 @@
 
 [![](https://raw.githubusercontent.com/kosimaru1997/kosimaru1997/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kosimaru1997/kosimaru1997/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kosimaru1997/kosimaru1997/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosimaru1997)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosimaru1997&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosimaru1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+## My profile
 
+2019年3月：小樽商科大学卒
 
-<!--
-**kosimaru1997/kosimaru1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2019年4月：北海道の金融関係会社に入社。法人営業に従事。
 
-Here are some ideas to get you started:
+2021年3月：退職、エンジニア転職を目指し本格的にプログラミング学習を開始。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 学習言語
+
+HTML/CSS
+
+JavaScript
+
+Ruby(Ruby on Rails)
+PHP (Laravel)
+
+SQL(MySQLをメインに学習)
+
+## ポートフォリオ
+
+[エンジニアになるまで](https://xn--n9jfc1f0c1grbyi7gxp.com)
+
+[Railsチュートリアル](https://thawing-brook-14123.herokuapp.com)
