@@ -65,6 +65,8 @@ SQL(MySQLをメインに学習)
 ## ポートフォリオ
 
 [エンジニアになるまで](https://xn--n9jfc1f0c1grbyi7gxp.com)  
-github(https://github.com/kosimaru1997/my_portfolio)
+github(https://github.com/kosimaru1997/my_portfolio)  
+
+[おひとこと](https://ohitokoto.herokuapp.com/) （趣味で作成したクソアプリです。）
 
 [(Railsチュートリアル)](https://thawing-brook-14123.herokuapp.com)
