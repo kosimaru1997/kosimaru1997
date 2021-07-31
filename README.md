@@ -1,5 +1,6 @@
 ### 閲覧いただきありがとうございます。
-<!-- ![](https://komarev.com/ghpvc/?username=kosimaru1997) -->
+
+![](https://komarev.com/ghpvc/?username=kosimaru1997)
 <h4 align="left">Languages and Tools:</h4>
 
 <p align="left">
