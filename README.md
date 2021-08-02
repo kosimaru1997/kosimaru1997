@@ -61,14 +61,14 @@ Ruby(Ruby on Rails)
 
 PHP (Laravel)
 
-SQL(MySQLをメインに学習)
+SQL
 
 ## ポートフォリオ
 
 [エンジニアになるまで](https://xn--n9jfc1f0c1grbyi7gxp.com)  
 github(https://github.com/kosimaru1997/my_portfolio)  
 
-[おひとこと](https://ohitokoto.herokuapp.com/) （趣味で作成したクソアプリです。）  
+[おひとこと](https://ohitokoto.herokuapp.com/) （趣味で作成した製作期間３日程度のクソアプリです。）  
 github((https://github.com/kosimaru1997/hitokoto) 
 
 [(Railsチュートリアル)](https://thawing-brook-14123.herokuapp.com)
