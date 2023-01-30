@@ -70,11 +70,11 @@ SQL
 [エンジニアになるまで](https://xn--n9jfc1f0c1grbyi7gxp.com)（停止中）  
 github(https://github.com/kosimaru1997/my_portfolio)  
 
-[SiteNote](https://site-note.herokuapp.com/)   
+[SiteNote](https://site-note.herokuapp.com/)(停止中)   
 github(https://github.com/kosimaru1997/site_note) 
 
 
-[laravel-SiteNote](https://laravel-site-note.herokuapp.com/)   
+[laravel-SiteNote](https://laravel-site-note.herokuapp.com/)(停止中)   
 github(https://github.com/kosimaru1997/laravel_docker_app/) 
 
 [おひとこと](https://ohitokoto.herokuapp.com/) （趣味で作成した製作期間３日程度のクソアプリです。）  
