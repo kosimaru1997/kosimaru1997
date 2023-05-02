@@ -53,17 +53,14 @@
 
 ## 学習言語
 
-HTML/CSS
+- JavaScript, TypeScript
 
-JavaScript
+- Java(Play FrameWork Spring Boot)
 
-Ruby(Ruby on Rails)
+- Ruby(Ruby on Rails)
 
-PHP (Laravel)
+- PHP (Laravel)
 
-Java
-
-SQL
 
 ## ポートフォリオ
 
@@ -79,5 +76,3 @@ github(https://github.com/kosimaru1997/laravel_docker_app/)
 
 [おひとこと](https://ohitokoto.herokuapp.com/) （趣味で作成した製作期間３日程度のクソアプリです。）  
 github((https://github.com/kosimaru1997/hitokoto) 
-
-[(Railsチュートリアル)](https://thawing-brook-14123.herokuapp.com)
