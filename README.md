@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kosimaru1997)
 
-## スキルセット
+## ざっとスキルセット
 
 <h4 align="left">Language</h4>
 
@@ -15,7 +15,6 @@
 <h4 align="left">Infra</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,jenkins,terraform&theme=light)](https://skillicons.dev)   
-「terraform」も使ってます
 
 - その他、趣味程度に、「React(Next,Remix)」、「Go(echo)」等の言語フレームワークを雰囲気で触ったりしています。
 
