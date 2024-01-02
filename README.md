@@ -1,65 +1,42 @@
-### 閲覧いただきありがとうございます。
+閲覧いただきありがとうございます。
 
 ![](https://komarev.com/ghpvc/?username=kosimaru1997)
-<h4 align="left">Languages and Tools:</h4>
 
-<p align="left">
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  </a> 
-   <a href="https://rubyonrails.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-</p>
+## スキルセット
+
+<h4 align="left">Language</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,java,python,mysql&theme=light)](https://skillicons.dev)
+
+<h4 align="left">FrameWork Tools</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,nodejs,spring,django,docker&theme=light)](https://skillicons.dev)
+
+<h4 align="left">Infra</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,jenkins,terraform&theme=light)](https://skillicons.dev)   
+「terraform」も使ってます
+
+- その他、趣味程度に、「React(Next,Remix)」、「Go(echo)」等の言語フレームワークを雰囲気で触ったりしています。
+
+## このアカウントでの活動
 
 [![](https://raw.githubusercontent.com/kosimaru1997/kosimaru1997/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kosimaru1997/kosimaru1997/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kosimaru1997/kosimaru1997/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosimaru1997&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-## My profile
+## ざっとした経歴
 
 2019年3月：小樽商科大学卒
 
-2019年4月：北海道の金融関係会社に入社。法人営業に従事。
+2019年4月：北海道の金融関係会社に入社。法人営業に従事
 
-2021年3月：退職、エンジニア転職を目指し本格的にプログラミング学習を開始。
+2021年3月：退職、エンジニア転職を目指し本格的にプログラミング学習を開始
 
-## 学習言語
+2021年11月: チームラボ/チームラボエンジニアリングにWebアプリエンジニアとして入社
 
-- JavaScript, TypeScript
+2023年6月: チームラボ/チームラボエンジニアリングを退職
 
-- Java(Play FrameWork Spring Boot)
-
-- Ruby(Ruby on Rails)
-
-- PHP (Laravel)
+2023年7月~現在 株式会社iimonに入社
 
 
 ## ポートフォリオ
@@ -74,5 +51,5 @@ github(https://github.com/kosimaru1997/site_note)
 [laravel-SiteNote](https://laravel-site-note.herokuapp.com/)(停止中)   
 github(https://github.com/kosimaru1997/laravel_docker_app/) 
 
-[おひとこと](https://ohitokoto.herokuapp.com/) （趣味で作成した製作期間３日程度のクソアプリです。）  
+[おひとこと](https://ohitokoto.herokuapp.com/) （停止中）  
 github((https://github.com/kosimaru1997/hitokoto) 
