@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+*/dist
+.npmrc
+*.pdf
+*/node_modules
