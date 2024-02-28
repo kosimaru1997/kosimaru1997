@@ -37,18 +37,5 @@
 
 2023年7月~現在 株式会社iimonに入社 不動産関連のWebアプリ開発に従事(Python/Django、TypeScript/Nuxt)
 
-
-## ポートフォリオ
-
-[エンジニアになるまで](https://xn--n9jfc1f0c1grbyi7gxp.com)（停止中）  
-github(https://github.com/kosimaru1997/my_portfolio)  
-
-[SiteNote](https://site-note.herokuapp.com/)(停止中)   
-github(https://github.com/kosimaru1997/site_note) 
-
-
-[laravel-SiteNote](https://laravel-site-note.herokuapp.com/)(停止中)   
-github(https://github.com/kosimaru1997/laravel_docker_app/) 
-
-[おひとこと](https://ohitokoto.herokuapp.com/) （停止中）  
-github((https://github.com/kosimaru1997/hitokoto) 
+詳しくは、ここに書いていこうと思っています。
+- https://kosimaru1997.github.io/kosimaru1997/
